@@ -1,2 +1,2 @@
-# Scripts_CE
-This repo contains necessary scripts use to generate CE model used for ML learning
+# Scripts_MCE
+This repo contains necessary scripts used to generate the Multi-Center-Environment (MCE) model for ML learning
